@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MultilevelLinkedList\MultilevelLinkedList\bin\Debug\MultilevelLinkedList.exe.config
+C:\Users\Admin\source\repos\MultilevelLinkedList\MultilevelLinkedList\bin\Debug\MultilevelLinkedList.exe
+C:\Users\Admin\source\repos\MultilevelLinkedList\MultilevelLinkedList\bin\Debug\MultilevelLinkedList.pdb
+C:\Users\Admin\source\repos\MultilevelLinkedList\MultilevelLinkedList\obj\Debug\MultilevelLinkedList.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MultilevelLinkedList\MultilevelLinkedList\obj\Debug\MultilevelLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MultilevelLinkedList\MultilevelLinkedList\obj\Debug\MultilevelLinkedList.exe
+C:\Users\Admin\source\repos\MultilevelLinkedList\MultilevelLinkedList\obj\Debug\MultilevelLinkedList.pdb

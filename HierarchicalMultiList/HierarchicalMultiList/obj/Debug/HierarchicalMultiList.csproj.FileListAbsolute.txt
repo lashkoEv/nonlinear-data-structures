@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\HierarchicalMultiList\HierarchicalMultiList\bin\Debug\HierarchicalMultiList.exe.config
+C:\Users\Admin\source\repos\HierarchicalMultiList\HierarchicalMultiList\bin\Debug\HierarchicalMultiList.exe
+C:\Users\Admin\source\repos\HierarchicalMultiList\HierarchicalMultiList\bin\Debug\HierarchicalMultiList.pdb
+C:\Users\Admin\source\repos\HierarchicalMultiList\HierarchicalMultiList\obj\Debug\HierarchicalMultiList.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HierarchicalMultiList\HierarchicalMultiList\obj\Debug\HierarchicalMultiList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HierarchicalMultiList\HierarchicalMultiList\obj\Debug\HierarchicalMultiList.exe
+C:\Users\Admin\source\repos\HierarchicalMultiList\HierarchicalMultiList\obj\Debug\HierarchicalMultiList.pdb

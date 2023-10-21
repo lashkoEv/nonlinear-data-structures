@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultilevelLinkedList", "MultilevelLinkedList\MultilevelLinkedList.csproj", "{DCA1FDC4-5734-4912-8519-3D9C6B54C930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA1FDC4-5734-4912-8519-3D9C6B54C930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA1FDC4-5734-4912-8519-3D9C6B54C930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA1FDC4-5734-4912-8519-3D9C6B54C930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA1FDC4-5734-4912-8519-3D9C6B54C930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90B5735E-D74C-470F-BF5F-5E8B601C4ECF}
+	EndGlobalSection
+EndGlobal

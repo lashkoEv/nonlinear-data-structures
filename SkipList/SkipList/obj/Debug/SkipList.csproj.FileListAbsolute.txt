@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SkipList\SkipList\obj\Debug\SkipList.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SkipList\SkipList\obj\Debug\SkipList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SkipList\SkipList\bin\Debug\SkipList.exe.config
+C:\Users\Admin\source\repos\SkipList\SkipList\bin\Debug\SkipList.exe
+C:\Users\Admin\source\repos\SkipList\SkipList\bin\Debug\SkipList.pdb
+C:\Users\Admin\source\repos\SkipList\SkipList\obj\Debug\SkipList.exe
+C:\Users\Admin\source\repos\SkipList\SkipList\obj\Debug\SkipList.pdb
